@@ -8,3 +8,5 @@
 .gitreview
 .idea
 blobs
+dev_releases
+config/dev.yml
