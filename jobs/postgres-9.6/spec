@@ -1,0 +1,9 @@
+---
+name: postgres-9.6
+packages:
+  - postgres-9.6
+
+templates:
+  ignore: ignore
+
+properties: {}
